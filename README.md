@@ -19,3 +19,4 @@ smart_movie_app/
 └── data/
 └── tmdb_5000_movies.csv 
 
+<img width="1707" height="901" alt="Screenshot 2025-07-14 144634" src="https://github.com/user-attachments/assets/2829ff1d-dea4-49f1-8757-ac6e2a9b736b" />
